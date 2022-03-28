@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiracleInce
 - 👀 I’m interested in web devolopment
-- 🌱 I’m currently learning software language or programme language
+- 🌱 I’m currently learning front-and and programme language
 - 💞️ I’m looking to collaborate on web site
 - 📫 How to reach me: My mail adreess is mirac.inc.02@gmail.com
 
